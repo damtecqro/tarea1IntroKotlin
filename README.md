@@ -34,3 +34,7 @@ La siguiente rúbrica será utilizada para cada uno de los problemas
 | Pseudocódigo  | 30%           |
 | Código        | 40%           |
 | Funcionamiento| 30%           |
+
+## Fecha de Entrega
+
+### 20/02/2020 11:59 a través de GitHub Classroom
