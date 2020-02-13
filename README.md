@@ -12,7 +12,9 @@ De la página:
 
 Seleccionar 2 problemas 1 fácil y uno medio o difícil
 
-Resolver los problemas dentro de un archivo con extensión .kt
+Resolver los problemas dentro de un archivo con extensión .kts (Nota: Verificar que el archivo no sea .kt)
+.kts Se refiere a Kotlin Script
+.kt Se refiere a solo un archivo Kotlin
 
 ## Evaluación
 
