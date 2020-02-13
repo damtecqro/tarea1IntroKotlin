@@ -18,11 +18,13 @@ Resolver los problemas dentro de un archivo con extensión .kt
 
 Se evaluará que el archivo contenga:
 
-⋅⋅* Nombre y matrícula dentro del archivo
-⋅⋅* Números de problemas a resolver
-⋅⋅* Pseudocódio o algoritmo de los problemas a resolver
-⋅⋅* Funcionalidad de los problemas a resolver
-⋅⋅* Casos de prueba todos los dados por el problema y al menos 2 realizados por el estudiante
+* Nombre y matrícula dentro del archivo
+* Números de problemas a resolver
+* Pseudocódio o algoritmo de los problemas a resolver
+* Funcionalidad de los problemas a resolver
+* Casos de prueba 
+	* Todos los dados por el problema 
+	* Al menos 2 realizados por el estudiante
 
 ## Rúbrica
 
