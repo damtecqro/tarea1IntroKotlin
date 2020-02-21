@@ -11,6 +11,9 @@ De la página:
 [Ninety Nine Kotlin Problems](https://github.com/dkandalov/kotlin-99)
 
 Seleccionar 2 problemas 1 fácil y uno medio o difícil
+Problemas Fáciles P05 - P28
+Problemas Medios P30 - P50
+Problemas Difíciles P55 - 99
 
 Resolver los problemas dentro de un archivo con extensión .kts (Nota: Verificar que el archivo no sea .kt)
 .kts Se refiere a Kotlin Script
@@ -39,4 +42,4 @@ La siguiente rúbrica será utilizada para cada uno de los problemas
 
 ## Fecha de Entrega
 
-### 20/02/2020 11:59 a través de GitHub Classroom
+### 27/02/2020 11:59 a través de GitHub Classroom
